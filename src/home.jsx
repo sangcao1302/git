@@ -4,6 +4,7 @@ function Home(props) {
     return (
         <div>
             <h1>abcde</h1>
+            <p>432432</p>
         </div>
     );
 }
